@@ -67,7 +67,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:text="누적관객수"
-                    android:textColor="#3CD622"
+                    android:textColor="#6DC507"
                     android:textSize="16sp" />
             </LinearLayout>
         </LinearLayout>
